@@ -1,4 +1,4 @@
-# THP Jour 2/3 - Google
+# THP Projet 1  - Google
 
 GitHub du projet de recréation de Page Google
 
